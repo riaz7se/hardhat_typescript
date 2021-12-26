@@ -15,6 +15,7 @@ npx hardhat help
 ```
 
 Steps:
+```shell
 cd hardhat_ts
 mkdir hardhat_ts
 cd hardhat_ts/
@@ -52,3 +53,4 @@ npx hardhat compile
 npm install --save-dev @nomiclabs/hardhat-waffle
 npx hardhat compile
 npx hardhat run scripts/sample-acc.ts 
+```
